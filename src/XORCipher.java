@@ -14,7 +14,7 @@ public class XORCipher {
 	}
 
 	public static void main(String[] args) {
-		cryption("This is passawords.", "passawords");
+		cryption("This is a password.", "password");
 		
 	}
 
